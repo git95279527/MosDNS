@@ -1,0 +1,64 @@
+name: Merge AD
+
+# 定义触发器，定期执行此工作流
+on:
+  schedule:
+    - cron: "0 0 * * 1"  # 每周一 00:00 UTC 执行
+  workflow_dispatch:     # 也允许手动触发
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 检出代码仓库
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # 拉取远程文件
+    - name: Download conf files
+      run: |
+        curl -fsSL -o Advertising_blackmatrix7.txt https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/AdvertisingLite/AdvertisingLite.txt
+        curl -fsSL -o Advertising_blackmatrix7_MiTV.txt https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
+        curl -fsSL -o Advertising_blackmatrix7_BlockHttpDNS.txt https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/AdGuard/BlockHttpDNS/BlockHttpDNS.txt
+        curl -fsSL -o Advertising_AWAvenue-Ads-Rule.txt https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Geosite.txt
+
+    # 使用 sed 命令修改文件
+    - name: Modify and merge files
+      run: |
+        set -e
+        
+        [ -f blocklist.txt ] && cp blocklist.txt blocklist_tmp.txt || touch blocklist_tmp.txt
+
+        clean() {
+          sed -i '/^[!#]/d; /^\s*$/d; s/||//g; s/\^//g' "$1"
+        }
+
+        clean Advertising_blackmatrix7.txt
+        clean Advertising_blackmatrix7_MiTV.txt
+        clean Advertising_blackmatrix7_BlockHttpDNS.txt
+        clean blocklist_tmp.txt
+
+        sed -i '/^[!#]/d; /^\s*$/d; s/full://g' Advertising_AWAvenue-Ads-Rule.txt
+        
+        cat blocklist_tmp.txt \
+            Advertising_AWAvenue-Ads-Rule.txt \
+            Advertising_blackmatrix7_MiTV.txt \
+            Advertising_blackmatrix7_BlockHttpDNS.txt \
+            Advertising_blackmatrix7.txt \
+            | sort -u > Advertising.txt
+        
+        rm -f blocklist_tmp.txt Advertising_AWAvenue-Ads-Rule.txt Advertising_blackmatrix7*
+
+      # 提交修改并推送到仓库
+    - name: Commit and push changes
+      run: |
+        git config --local user.name "github-actions[bot]"
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        if git diff --cached --quiet; then
+          echo "No changes to commit"
+          exit 0
+        fi
+        git commit -m "Update Advertising rules"
+        git push
