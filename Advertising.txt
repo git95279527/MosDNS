@@ -3507,6 +3507,7 @@ adsfileretry.service.kugou.com
 adsforallmedia.com
 adsforindians.com
 adsfs-sdkconfig.heytapimage.com
+adsfs.heytapimage.com
 adsfs.oppomobile.com
 adsfundi.com
 adsfuse.com
@@ -11349,7 +11350,6 @@ drank.fa779.com
 draulinehandon.info
 drbwugautcgh.com
 drc6i.cn
-drcn-weather.cloud.huawei.com
 drd.hauchi.com.tw
 drdj.m.gxwztv.com
 drdwy.com
