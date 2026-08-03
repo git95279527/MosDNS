@@ -40,6 +40,7 @@ jobs:
         clean blocklist_tmp.txt
 
         sed -i '/^[!#]/d; /^\s*$/d; s/full://g' Advertising_AWAvenue-Ads-Rule.txt
+        rm -f Advertising.txt.sha256sum
         
         cat blocklist_tmp.txt \
             Advertising_AWAvenue-Ads-Rule.txt \
@@ -47,7 +48,8 @@ jobs:
             Advertising_blackmatrix7_BlockHttpDNS.txt \
             Advertising_blackmatrix7.txt \
             | sort -u > Advertising.txt
-        
+            
+        sha256sum Advertising.txt > Advertising.txt.sha256sum
         rm -f blocklist_tmp.txt Advertising_AWAvenue-Ads-Rule.txt Advertising_blackmatrix7*
 
       # 提交修改并推送到仓库
