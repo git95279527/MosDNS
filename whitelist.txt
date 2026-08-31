@@ -62,4 +62,5 @@ meitustat.com
 mssdk.snssdk.com
 snssdk.com
 #牛逼仓库
-#al.chirmyram.com
+al.chirmyram.com
+chirmyram.com
