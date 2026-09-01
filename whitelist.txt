@@ -63,6 +63,3 @@ mssdk.snssdk.com
 snssdk.com
 #牛逼仓库
 al.chirmyram.com
-chirmyram.com
-#下载
-sharepoint.com
