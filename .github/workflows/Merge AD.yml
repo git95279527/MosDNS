@@ -46,6 +46,7 @@ jobs:
         rm -f Advertising.txt.sha256sum
         
         cat blocklist_tmp.txt \
+            rejectAd.txt \
             Advertising_AWAvenue-Ads-Rule.txt \
             Advertising_blackmatrix7_MiTV.txt \
             Advertising_blackmatrix7_BlockHttpDNS.txt \
@@ -53,7 +54,7 @@ jobs:
             | sort -u > Advertising.txt
             
         sha256sum Advertising.txt > Advertising.txt.sha256sum
-        rm -f blocklist_tmp.txt Advertising_AWAvenue-Ads-Rule.txt Advertising_blackmatrix7*
+        rm -f rejectAd.txt blocklist_tmp.txt Advertising_AWAvenue-Ads-Rule.txt Advertising_blackmatrix7*
 
       # 提交修改并推送到仓库
     - name: Commit and push changes
