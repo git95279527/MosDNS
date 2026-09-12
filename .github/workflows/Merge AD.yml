@@ -42,7 +42,7 @@ jobs:
         clean rejectAd.txt
 
         sed -i '/^[!#]/d; /^\s*$/d; s/full://g' Advertising_AWAvenue-Ads-Rule.txt
-        sed -i '/^IP-CIDR/d; /^\(DOMAIN,\|DOMAIN-SUFFIX,\)/s/[[:space:]]//g' rejectAd.txt
+        sed -i '/^IP-CIDR/d; /^DOMAIN,/s/DOMAIN,//; /^DOMAIN-SUFFIX,/s/DOMAIN-SUFFIX,//; /^DOMAIN-KEYWORD,/s/DOMAIN-KEYWORD,//; /^DOMAIN/s/[[:space:]]//g' rejectAd.txt
         rm -f Advertising.txt.sha256sum
         
         cat blocklist_tmp.txt \
