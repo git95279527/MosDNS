@@ -2311,6 +2311,7 @@ acxiomapac.com
 acz.youku.com
 ad-analysis.pconline.com.cn
 ad-android.51wnl.com
+ad-api.4pyun.com
 ad-api.cnblogs.com
 ad-arata.com
 ad-back.net
@@ -2325,6 +2326,7 @@ ad-clicks.com
 ad-cloud.jp
 ad-cn.jovcloud.com
 ad-delivery.net
+ad-files.4pyun.com
 ad-flow.com
 ad-gbn.com
 ad-goi.com
@@ -2484,6 +2486,7 @@ ad.madvertise.de
 ad.mail.ru
 ad.mail.sohu.com
 ad.mangareader.net
+ad.maoyan.com
 ad.mcloud.139.com
 ad.mediabong.net
 ad.mesomorphosis.com
@@ -2653,6 +2656,7 @@ adapi.yynetwk.com
 adaptiveads.com
 adasad.myweb.hinet.net
 adash-c.ut.taobao.com
+adash-emas.cn-hangzhou.aliyuncs.com
 adashbc.m.taobao.com
 adashbc.ut.taobao.com
 adashx.m.taobao.com
@@ -3320,6 +3324,7 @@ ads.eu.msn.com
 ads.feedly.com
 ads.feelingtouch.com
 ads.fetnet.net
+ads.finance.yahoo.com
 ads.genieessp.com
 ads.gionee.com
 ads.globo.com
@@ -3334,6 +3339,7 @@ ads.ign.com
 ads.inmobi.com
 ads.intergi.com
 ads.internal.unity3d.com
+ads.ishansong.com
 ads.lejuliang.com
 ads.linkedin.com
 ads.mobgold.com
@@ -3574,6 +3580,7 @@ adsp.xunlei.com
 adspaces.ero-advertising.com
 adsparc.net
 adspdbl.com
+adspecs.yahoo.com
 adspeed.com
 adspirit.de
 adsplex.com
@@ -3882,6 +3889,7 @@ adx-core.youku.com
 adx-drcn.op.dbankcloud.cn
 adx-open-service.youku.com
 adx-os.anythinktech.com
+adx-os.bridgeoos.com
 adx-saas.advlion.com
 adx-static.ksosoft.com
 adx-strategy-api-cn.statisticslinks.com
@@ -3931,6 +3939,7 @@ adxprts.com
 adxprtz.com
 adxscope.com
 adxserver.ad.cmvideo.cn
+adxstatic.vivo.com.cn
 adxvip.com
 adxxx.com
 adxxx.me
@@ -4518,6 +4527,7 @@ alloydigital.com
 allpass.salemwebnetwork.com
 allsporttv.com
 alltagcloud.info
+alltbcsp2p.baidu.com
 alltracked.com
 allxin.com
 allxscan.tk
@@ -7054,6 +7064,7 @@ brand-display.com
 brand.net
 brand.sogou.com
 brandads.net
+brandadsstatic.vivo.com.cn
 brandaffinity.net
 brandclik.com
 brandlock.io
@@ -8930,6 +8941,7 @@ comm.app.autohome.com.cn
 commander1.com
 commdata.v.qq.com
 commercedirections.com
+commercial.shouji.360.cn
 commercialvalue.org
 commission-junction.com
 commission.bz
@@ -11441,6 +11453,7 @@ dsparking.com
 dspimg.adsame.com
 dspimg.dftoutiao.com
 dspleastanci.site
+dsplog-adnet.vivo.com.cn
 dsply.com
 dspmnt.autohome.com.cn
 dssdr.top
@@ -12747,6 +12760,7 @@ events.redditmedia.com
 events.secureserver.net
 eventtracker.videostrip.com
 eventurypol.site
+eventv1.leidong.rayenergytech.com
 evepcynlxks.com
 everestjs.net
 evergage.com
@@ -16325,9 +16339,11 @@ hunkal.com
 hunpingou.com
 hunpp.com
 hunt-leads.com
+huodong.ios.shouji.360.cn
 huodong.mobilem.360.cn
 huodong.pl.youku.com
 huodong.vip.youku.com
+huodong.weibo.cn
 huodonghezi.cn
 huodonghezi.com
 huoyiad1.cn
@@ -16544,15 +16560,16 @@ iad.g.163.com
 iad0ssl.pcauto.com.cn
 iad0ssl.pconline.com.cn
 iadc.qwapi.com
+iadcontent.apple.com
 iadctest.qwapi.com
 iadfjbrttvgn.com
 iadmat.nosdn.127.net
 iadmatvideo.nosdn.127.net
+iadmoo.apple.com
 iadmusicmat.music.126.net
 iadmusicmatvideo.music.126.net
 iads.xinmin.cn
 iadsdk.apple.com
-iadworkbench.apple.com
 iafjzbzqdgxq.com
 iafqqcsw.com
 iajcvxcqktpm.com
@@ -17231,6 +17248,7 @@ ininmacerad.pro
 inistrack.net
 init.phpwind.com
 init.phpwind.net
+init.supersonicads.com
 inityhntee.com
 injjmtlzq.com
 injuredcandy.com
@@ -17247,6 +17265,7 @@ inmobicdn.net
 inmoment.com
 innatek.com
 inner-active.mobi
+inner-hw.huazirc.com
 inneractive-assets.s3.amazonaws.com
 innity.com
 innity.net
@@ -19295,6 +19314,7 @@ kwjkd.com
 kwmsg.kuwo.cn
 kwnq4hg2n9.com
 kwp79i.cn
+kwpush.kuwo.cn
 kwurl.ucweb.com
 kwwxnzcielmpy.com
 kwykvodkvg.com
@@ -20223,6 +20243,7 @@ logrcv.aiclk.com
 logrcv.yunxish.com
 logrocket.io
 logrp.hpplay.cn
+logs-bigdata.yeehaw.com.cn
 logs-qos.tf1.fr
 logs.amap.com
 logs.chelaile.net.cn
@@ -20241,6 +20262,7 @@ logstat.t.sfht.com
 logtj.kugou.com
 logua.com
 logupdate.avlyun.sec.miui.com
+logv2.ireader.com
 logwebs.kugou.com
 logx.mtime.cn
 logx.mtime.com
@@ -26001,6 +26023,7 @@ projectagoratech.com
 projectsunblock.com
 projectwonderful.com
 projop.dnsalias.com
+prom-sdkv2.jysper.net
 prom.gome.com.cn
 promo-bc.com
 promo-market.net
@@ -27555,9 +27578,11 @@ report-uri.com
 report-uri.io
 report-zt.allmusic.com
 report.appmetrica.yandex.net
+report.dxunion.cn
 report.huatuo.qq.com
 report.qcloud.com
 report.qq.com
+report.tencentmusic.com
 report.tv.kohesport.qq.com
 report.vip.qq.com
 reporting.flymonarch.com
@@ -28419,7 +28444,6 @@ safe.tsgpay.cn
 safe.ucweb.com
 safe524.xyz
 safebrowsing.g.applimg.com
-safebrowsing.urlsec.gg.com
 safebrowsing.urlsec.qq.com
 safelinktracker.com
 safelistextreme.com
@@ -32400,6 +32424,7 @@ trackedlink.net
 trackedweb.net
 tracker-api.my.com
 tracker-id.cdiscount.com
+tracker-prd.aldi.com.cn
 tracker.affiliate.iqoption.com
 tracker.ai.xiaomi.com
 tracker.anandtech.com
@@ -32432,6 +32457,7 @@ trackertest.org
 trackfeed.com
 tracki112.com
 trackicollect.ibase.fr
+tracking-adnet.vivo.com.cn
 tracking-opi.fonpit.de
 tracking-server-prod-1.zenmxapps.com
 tracking.3ds.com
@@ -33493,6 +33519,7 @@ unilog.wostore.cn
 unilz588.com
 unimhk.com
 union-mlog.bigda.com
+union-record.oss-cn-zhangjiakou.aliyuncs.com
 union-wifi.com
 union.56.com
 union.6.cn
@@ -35666,6 +35693,7 @@ ws-keyboard.shouji.sogou.com
 ws.browsermine.com
 ws.ksmobile.net
 ws.sj.qq.com
+ws.tapjoyads.com
 ws.wenshenxiu.com
 ws.yellowpages.ca
 ws2.cootekservice.com
@@ -37642,6 +37670,7 @@ yule.fulevmy.com
 yule.sohu.com
 yule8.net
 yulzs.com
+yumao.puata.info
 yumcs.xiaohuau.xyz
 yumekin.com
 yumenetworks.com
