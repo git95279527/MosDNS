@@ -63,5 +63,6 @@ mssdk.snssdk.com
 snssdk.com
 #牛逼仓库
 al.chirmyram.com
+chirmyram.top
 #onedrive
 sharepoint.com
