@@ -16,6 +16,7 @@ onlyets.com
 #HBB推送检测
 to.wcpush.top
 wcpush.top
+hbbz.top
 #机场
 x.luxury
 #小熊有好货
