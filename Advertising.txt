@@ -5072,6 +5072,7 @@ adm.shinobi.jp
 adm.sina.com.cn
 adm.xmfish.com
 adm.zbinfo.net
+adm.zhangyuyidong.cn
 adm.zookingsoft.com
 adm0.autoimg.cn
 adm1.autoimg.cn
@@ -5596,6 +5597,7 @@ adslvseed.qq.com
 adsmarket.com
 adsmarket.es
 adsmart.konka.com
+adsmartget.datads.cn
 adsmind.apdcdn.tc.qq.com
 adsmind.gdtimg.com
 adsmind.tc.qq.com
@@ -12587,6 +12589,7 @@ de-mi-nis-ner.info
 de-mi-nis-ner2.info
 de-ner-mi-nis4.info
 de-nis-ner-mi-5.info
+de.ad.gameley.com
 de.as.cp61.ott.cibntv.net
 de.as.pptv.com
 de.dzribao.com
@@ -20397,6 +20400,7 @@ joyfuldoors.com
 joynxonnxfnvqr.com
 joyourself.com
 jozee.cn
+jp.ad.gameley.com
 jp.as.pptv.com
 jp88.cc
 jpabviwck.com
@@ -20977,6 +20981,10 @@ keytui.com
 keywee.co
 keyword-match.com
 keyword.daumdn.com
+keyword:-ad.sm.cn
+keyword:-ad.video.yximgs.com
+keyword:-ad.wtzw.com
+keyword:-be-pack-sign.pglstatp-toutiao.com
 keywordblocks.com
 keywordmax.com
 keywordpop.com
@@ -24489,6 +24497,7 @@ mpay69.pw
 mpb1.iteye.com
 mpb2.iteye.com
 mpbjbeueinytao.com
+mpcfg.fancydsp.com
 mpgvgkeib.com
 mpianalytics.com
 mpjitqgyr.com
@@ -30899,8 +30908,10 @@ sdillrnslaiyb.com
 sdjjr.com
 sdk-ab-config.qquanquan.com
 sdk-cache.video.ptqy.gitv.tv
+sdk-track.66mobi.com
 sdk.1rtb.net
 sdk.ad.smaato.net
+sdk.adhuanxiao.com
 sdk.adx.adwangmai.com
 sdk.api.oaid.wocloud.cn
 sdk.appadhoc.com.bsclink.cn
@@ -30910,12 +30921,14 @@ sdk.cferw.com
 sdk.cmgame.com
 sdk.e.qq.com
 sdk.hzsanjiaomao.com
+sdk.hzzfcm.com
 sdk.look.360.cn
 sdk.m.youku.com
 sdk.markmedia.com.cn
 sdk.mobads.adwangmai.com
 sdk.open.talk.getui.com
 sdk.open.talk.igexin.com
+sdk.zhangyuyidong.cn
 sdk.zsdfm.com
 sdk2.youguoquan.com
 sdkapi.cloooud.com
@@ -30934,6 +30947,7 @@ sdkfjxjertertry.com
 sdkinit.taobao.com
 sdklog.cmgame.com
 sdklog.uu.cc
+sdklog.zhangyuyidong.cn
 sdkoptedge.chinanetcenter.com
 sdkpay.uu.cc
 sdkreport.e.qq.com
@@ -38479,6 +38493,7 @@ xacqp.com
 xad.com
 xadcentral.com
 xadchina.cn
+xadsmartget.adgain.cn
 xafkdsxnwinmj.com
 xafxs.cn
 xahwybxa.com
