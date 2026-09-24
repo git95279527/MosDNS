@@ -48,3 +48,6 @@ chirmyram.com
 chirmyram.top
 #onedrive
 sharepoint.com
+#apple补充
+apple.com.akadns.net
+
