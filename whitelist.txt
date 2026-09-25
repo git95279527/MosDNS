@@ -37,7 +37,7 @@ bydmax.com
 bydoceanauto.com
 bydonline.com
 #小组件盒子
-widget-box-api.codefuture.top
+codefuture.top
 widgetbox.top
 #美颜相机
 meitustat.com
@@ -49,5 +49,5 @@ chirmyram.top
 #onedrive
 sharepoint.com
 #apple补充
-apple.com.akadns.net
+akadns.net
 
