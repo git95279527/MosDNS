@@ -51,3 +51,4 @@ parallels.pt
 parallels.ru
 parallelskorea.com
 parallels.com.cdn.cloudflare.net
+download.parallels.com
