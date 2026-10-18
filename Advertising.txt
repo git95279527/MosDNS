@@ -2019,6 +2019,10 @@
  zryydi.com
  zuimeitianqi.inveno.com
  zzpush.58.com
+-ad.sm.cn
+-ad.video.yximgs.com
+-ad.wtzw.com
+-be-pack-sign.pglstatp-toutiao.com
 -normal-lq.zijieapi.com
 00-gov.cn
 000dn.com
@@ -20982,10 +20986,6 @@ keytui.com
 keywee.co
 keyword-match.com
 keyword.daumdn.com
-keyword:-ad.sm.cn
-keyword:-ad.video.yximgs.com
-keyword:-ad.wtzw.com
-keyword:-be-pack-sign.pglstatp-toutiao.com
 keywordblocks.com
 keywordmax.com
 keywordpop.com
