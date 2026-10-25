@@ -4359,8 +4359,10 @@ ad-cache.dopool.com
 ad-cdn.qingting.fm
 ad-clicks.com
 ad-cloud.jp
+ad-cmp.hismarttv.com
 ad-cn.jovcloud.com
 ad-delivery.net
+ad-download.hismarttv.com
 ad-files.4pyun.com
 ad-flow.com
 ad-gbn.com
@@ -9032,6 +9034,7 @@ boomerang.com.au
 boomgamescloud-cdn.cn
 boomtrain.com
 booraipa.com
+boost-cmp.hismarttv.com
 boost-next.co.jp
 boostable.com
 boostads.net
@@ -16142,6 +16145,7 @@ g.bitauto.com
 g.brothersoft.com
 g.chuiyao.com
 g.click.taobao.com
+g.cn.miaozhen.com
 g.corp.163.com
 g.daman.cc
 g.delivery.net
@@ -19199,6 +19203,7 @@ imneinei.com
 imonitor.dhgate.com
 imonomy.com
 imounsos.com
+imp-cmp.hismarttv.com
 imp-mdsp.avazutracking.net
 imp-media-lab.thenewslens.com
 imp.affiliator.com
@@ -22203,6 +22208,7 @@ loa-traffic.com
 load.jsecoin.com
 load77.exelator.com
 loadercdn.com
+loading-cmp.hismarttv.com
 loading-delivery1.com
 loading-resource.com
 loading.baofeng5.baofeng.net
@@ -24585,6 +24591,7 @@ msdk.voiceads.cn
 mse2v5oglm.com
 msecure108.com
 msegeqxwopq.com
+msg-cmp.hismarttv.com
 msg.c002.ottcn.com
 msg.douyu.com
 msg.eclicks.cn
@@ -27041,6 +27048,7 @@ passive-earner.com
 passport-log.youku.com
 passport.pfn.bz
 passwz.com
+paster-cmp.hismarttv.com
 pat.farvd.com
 patecrafts.com
 pathful.com
@@ -29589,6 +29597,7 @@ reciteme.com
 reckedmane.club
 reckinbuttiten.pro
 reclamus.com
+recmd-cmp.hismarttv.com
 recmd.html5.qq.com
 reco.hardsextube.com
 recognified.net
@@ -29801,6 +29810,7 @@ resolvethem.com
 reson8.com
 resonance.pk
 resonantbrush.com
+resource-cmp.hismarttv.com
 resource.baomihua.com
 resource.m0lxcdn.kukuplay.com
 respondhq.com
