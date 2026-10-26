@@ -11,10 +11,6 @@ umengcloud.com
 #google分析
 google-analytics.com
 #拦截WPS
-sg-drive.wps.com
-androidweb.wps.com
-ai-sg.wps.com
-sg-account.wps.com
 #避免迅雷版权问题
 hub5idx.v6.shub.sandai.net
 hub5emu.v6.shub.sandai.net
