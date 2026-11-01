@@ -6325,7 +6325,6 @@ ahxhny.cn
 ahyau.com
 ahyhhxpeeswgtl.com
 ahyuns.com
-ai-sg.wps.com
 ai.bioon.com
 ai.inmdata.io
 ai.iol.io
@@ -6871,7 +6870,6 @@ android-sdk31.transpera.com
 android.bcfads.com
 android.bugly.qq.com
 androidlog.shouji.baofeng.com
-androidweb.wps.com
 andrqd.play.aiseet.atianqi.com
 andvqrqaeu.com
 andyetanotherthing.com
@@ -31347,9 +31345,7 @@ sftpgyqdrexl.com
 sfxl.com.cn
 sfxuiadi.com
 sfz023.com
-sg-account.wps.com
 sg-autorepondeur.com
-sg-drive.wps.com
 sg.a.stat.mi.com
 sg.keytui.com
 sg2rgnza7k9t.com
