@@ -6,3 +6,4 @@ fzxpeg.cc
 ghfast.top
 git.yylx.win
 revenuecat.com
+x.luxury
