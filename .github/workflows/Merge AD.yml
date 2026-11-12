@@ -18,7 +18,7 @@ jobs:
     # 拉取远程文件
     - name: Download conf files
       run: |
-        curl -fsSL -o Advertising_blackmatrix7.txt https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/AdvertisingLite/AdvertisingLite.txt
+        curl -fsSL -o Advertising_blackmatrix7.txt https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/Advertising/Advertising.txt
         curl -fsSL -o Advertising_blackmatrix7_MiTV.txt https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/AdGuard/AdvertisingMiTV/AdvertisingMiTV.txt
         curl -fsSL -o Advertising_blackmatrix7_BlockHttpDNS.txt https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/AdGuard/BlockHttpDNS/BlockHttpDNS.txt
         curl -fsSL -o Advertising_AWAvenue-Ads-Rule.txt https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/Filters/AWAvenue-Ads-Rule-Geosite.txt
