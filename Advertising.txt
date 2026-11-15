@@ -16163,7 +16163,6 @@ ads-api.kidsnote.com
 ads-api.playfun.vn
 ads-api.production.nebula-drupal.stuff.co.nz
 ads-api.stuff.co.nz
-ads-api.tiktok.com
 ads-api.twitter.com
 ads-api.videy.co
 ads-api.x.com
@@ -16203,7 +16202,6 @@ ads-img-qc.xhscdn.com
 ads-img.mozilla.org
 ads-impressions.com
 ads-interfaces.sc-cdn.net
-ads-jp.tiktok.com
 ads-leaseweb.appsgeyser.com
 ads-link.net
 ads-lite.net
@@ -16229,7 +16227,6 @@ ads-sdk.nianticlabs.com
 ads-segment-profile-noneu.truecaller.com
 ads-server.mxplay.com
 ads-service.api.linkme.global
-ads-sg.tiktok.com
 ads-shopping.shouqianba.com
 ads-static.phonepe.com
 ads-stats.com
@@ -16243,6 +16240,7 @@ ads-union.jd.com
 ads-v-darwin.hulustream.com
 ads-video-al.xhscdn.com
 ads-video-qc.xhscdn.com
+ads-vp5.xhscdn.com
 ads-yallo-production.imgix.net
 ads.123net.jp
 ads.1mindrama.net
@@ -17715,7 +17713,6 @@ adstub.net
 adstuber.com
 adstudio-assets.scdn.co
 adstudio.cloud
-adstudio.spotify.com
 adstuna.com
 adstune.com
 adsturn.com
@@ -17853,7 +17850,6 @@ adtech.abs-cbn.com
 adtech.com
 adtech.de
 adtech.panthercustomer.com
-adtech.yahooinc.com
 adtechium.com
 adtechjp.com
 adtechus.com
@@ -18207,12 +18203,7 @@ adversesuffering.com
 adversolutions.com
 adverster.com
 adversting.riamedia.com.ua
-advertising-api-eu.amazon.com
-advertising-api-fe.amazon.com
-advertising-api.amazon.com
-advertising.apple.com
 advertising.yahoo.com
-advertising.yandex.ru
 adverweb.ru
 advfandom.com
 advfeeds.com
@@ -48351,6 +48342,7 @@ client-sdk.hackle.io
 client-telemetry-preauth.hingeprod.net
 client-telemetry.hingeprod.net
 client-telemetry.roblox.com
+client-upload.cn-shanghai.log.aliyuncs.com
 client.88tours.com
 client.botchk.net
 client.midosoo.com
@@ -54612,7 +54604,6 @@ csjayzqifekaq.com
 csjdhxlelvqpa.site
 csjggncfpbhnq.space
 csjokezuqdbdy.online
-csjplatform.com
 csjuq.com
 cskcnipgkq.club
 cskh-ca-nhan-vpbank.com
@@ -72766,6 +72757,7 @@ dtzru.colorescience.com
 dtzvavrnbzemd.space
 dtzwxa.com
 dtzysm.com
+du-app.cn-hangzhou.log.aliyuncs.com
 du.163.com
 du.biqukan.com
 du.dinudlejning.dk
@@ -80117,6 +80109,7 @@ erriteolycook.qpon
 erriteskither.qpon
 errlak.aromame.co.kr
 errnaphim.site
+errnewlog.umeng.com
 error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
 error-collector.ted.com
@@ -88758,6 +88751,7 @@ fozhu.rrsdl.com
 foztcbbfdnnla.space
 fp-cdn.azureedge.net
 fp-flame.vercel.app
+fp-it.fengkongcloud.com
 fp-upload.dun.163.com
 fp.artoflivingretreatcenter.org
 fp.bario-neal.com
@@ -133253,6 +133247,7 @@ lezplamgzs.com
 lezpress.fr
 leztc.com
 leztr.giantpartners.com
+lf-event-manager.oceanengine.com
 lf-static.tiktokpangle-cdn-us.com
 lf.lelefeminine.com
 lf2cgxz0b.com
@@ -214547,6 +214542,8 @@ shifthare.com
 shiftrro.com
 shigao.icu
 shihewoo.com
+shihuo-new.log.shihuocdn.cn
+shihuo.log.shihuocdn.cn
 shiiticprating.com
 shiiuojjccp.com
 shiiva.fr
