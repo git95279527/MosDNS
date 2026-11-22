@@ -5,8 +5,6 @@
  1.letvlive.com
  1.qtmojo.cn
  1.wps.cn
- 118.89.204.198
- 180.76.76.200
  1a-1791.com
  1rtb.net
  1rx.io
@@ -18388,6 +18386,7 @@ adx.ads.heytapmobi.com
 adx.ads.oppomobile.com
 adx.adwangmai.com
 adx.adxglobal.com
+adx.anythinktech.com
 adx.apiok.net
 adx.appsdk.com.cn
 adx.autohome.com.cn
@@ -21799,6 +21798,7 @@ aloftriottomato.com
 alog.umeng.com
 alogationa.co
 alogiansear.com
+alogsus.umeng.com
 alogus.umeng.com
 aloha-news.net
 aloha.getoperand.com
@@ -35204,6 +35204,7 @@ bid-engine.com
 bid.ctv.house
 bid.glass
 bid.run
+bid.shanghailingye.cn
 bidadx.com
 bidartacnode.cfd
 bidbadlyarsonist.com
@@ -49228,9 +49229,12 @@ cmyyrxuwxglbs.space
 cmzaly.gebrueder-goetz.de
 cmzno.fabtab.com
 cn-3drp.com
+cn-api-sec.anythinktech.com
 cn-api.anythinktech.com
+cn-da.anythinktech.com
 cn-go.experian.com
 cn-rtb.com
+cn-tk.anythinktech.com
 cn.bidushe.com
 cn.hotclips.click
 cn.hothue.top
@@ -58662,6 +58666,7 @@ da.rabobank.nl
 da.rosrabota.ru
 da.sat-gruppe.com
 da.schwabenholz.net
+da.statisticslinks.com
 da.style-speyer.de
 da.thedigitz.com
 da.ulco.de
@@ -80108,8 +80113,11 @@ erringstartdelinquent.com
 erriteolycook.qpon
 erriteskither.qpon
 errlak.aromame.co.kr
+errlog.umeng.com
+errlogos.umeng.com
 errnaphim.site
 errnewlog.umeng.com
+errnewlogos.umeng.com
 error-analytics-production.shopifysvc.com
 error-analytics-sessions-production.shopifysvc.com
 error-collector.ted.com
@@ -224933,6 +224941,7 @@ ssagg.vitrea.com.ar
 ssancib.top
 ssangyong.altosandes.com.pe
 ssapi.agencyskin.com
+ssapi.anythinktech.com
 ssapi.apanages-jardin.fr
 ssapi.automuller.com.br
 ssapi.cash-electrique.fr
@@ -249904,6 +249913,7 @@ tk.santevet.de
 tk.santevet.es
 tk.santevet.it
 tk.speedway.fr
+tk.statisticslinks.com
 tk.svsound.com
 tk.teleshopping.fr
 tk.thecaseadvisors.com
@@ -250682,6 +250692,7 @@ toazdkl.top
 tobaccosturgeon.com
 tobaitsie.com
 tobaltoyon.com
+tobapplog.ctobsnssdk.com
 tobepure.com
 tobewhilst.cfd
 tobipovsem.com
