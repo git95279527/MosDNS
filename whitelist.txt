@@ -57,3 +57,13 @@ dsm.flutter.fit
 ifconfig.co
 portcheck.transmissionbt.com
 fwa.lifesizecloud.com
+turn.cloudflare.com
+stun.isp.net.au
+stun.freeswitch.org
+stun.voip.blackberry.com
+stun.nextcloud.com
+stun.sipnet.com
+stun.radiojar.com
+stun.sonetel.com
+stun.voipgate.com
+global.turn.twilio.com
